@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+## this is a first trial to test the commit process
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
